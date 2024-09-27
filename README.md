@@ -7,17 +7,15 @@
 Hi 👋 My name is Ramzi Bouzaiene
 ================================
 
-Full Stack Developer
+Full Stack Engineer
 ------------------
 
-Well-qualified Full Stack Developer, eager to learn and hardworking person, experienced in Front-End area (React, Redux, Angular, etc.) with the ability to build scalable and user-friendly web applications.
-In the Back-End area, I worked with PHP/Laravel before, and also i have good knowledge of Node JS and Express JS throughout my skills in Javascript language currently, I'm trying to improve my skills in Java and Spring Boot framework.
-Through my experience, I'm always trying to learn more about the best practices, clean code, and some optimization techniques.
-Above all, I'm a team player and I am always looking for ways to improve my skills and stay up to date with the latest development trends.
+I'm a passionate Full Stack Engineer with a proven track record of building robust web applications from the ground up. My expertise spans across both front-end and back-end development, including technologies like React, Angular, Java/Spring Boot, Node.js/Express.js, and PHP/Laravel.
+On the DevOps side, I excel in containerization and orchestration with Docker and Kubernetes, and I streamline continuous integration and delivery using GitLab CI, Jenkins, and GitHub Actions.
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [ramzibouzaiene00@gmail.com](mailto:ramzibouzaiene00@gmail.com)
-* 🧠  Currently I'm working with Java and Spring Boot to improve my skills in the Back-end area.
+* 🧠  Currently, I am working as a Back-end Engineer specializing in Java and Spring Boot, while also expanding my expertise in DevOps technologies to enhance my skill set.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I am open to every tech thrown at me, I am not afraid to jump and learn whatever tool solves the problem at hand, in the best way possible.
 
